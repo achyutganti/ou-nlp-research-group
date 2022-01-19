@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: [Steven Wilson](https://steverw.com/)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Oakland University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I study online communication using Natural Language Processing methods with a focus on understanding and incorporating the social context of text data and the people that create it. 
 
 interests:
-- Artificial Intelligence
+- Natural Langugage Processing
 - Computational Linguistics
-- Information Retrieval
+- Computational Social Science
 
 education:
   courses:
@@ -65,9 +65,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Faculty
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ I study online communication using Natural Language Processing methods with a focus on understanding and incorporating the social context of text data and the people that create it.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I completed my PhD at the University of Michigan where I was a member of the LIT Lab. :part_alternation_mark: Go Blue! After that, I spent a couple of years working as a postdoc in the SMASH group at the University of Edinburgh. 
