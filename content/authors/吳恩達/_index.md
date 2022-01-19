@@ -1,41 +1,41 @@
 ---
 # Display name
-title: 吳恩達
+title: Achyut Ganti
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- Achyut Ganti
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD/Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Oakland University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Natural Language Processing, Machine Learning, Data Science.
 
 interests:
-- Artificial Intelligence
+- Natural Language Processing
 - Computational Linguistics
-- Information Retrieval
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science and Engineering
+    institution: Oakland University
+    year: 2021-
+  - course: MS in Computer Information Systems
+    institution: Grand Valley State University
+    year: 2018
+  - course: B.Tech in Electronics and Communication Engineering
+    institution: Jawaharlal Nehru Technological University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/achyutganti
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first year Ph.D. student in the Department of Computer Science at Oakland University advised by Dr. Steven Wilson. Prior to joining OU, I graduated with a masters degree in Computer Science from Grand Valley State University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research intersts broadly includes natural language processing, machine learning, computational social sciences and I’m also interested in studying human behavior and how it affects natural language in everyday life.
