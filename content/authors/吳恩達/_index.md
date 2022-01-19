@@ -66,8 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Grad Students
 ---
 
 I am a first year Ph.D. student in the Department of Computer Science at Oakland University advised by Dr. Steven Wilson. Prior to joining OU, I graduated with a masters degree in Computer Science from Grand Valley State University.
