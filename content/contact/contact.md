@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Interested in collaborating with the members of Oakland University's NLP lab? OU NLP is always looking for motivated students to join the lab. Prospective students can contact the lab members to get more information about OU NLP research. Or feel free to leave a message below or even stop by during the available hours.
+Interested in collaborating with the members of Oakland University's NLP lab? OU NLP is always looking for motivated students to join the lab. Prospective students can contact the lab members to get more information about OU NLP research. Or feel free to leave a message below or even stop by during available hours.
