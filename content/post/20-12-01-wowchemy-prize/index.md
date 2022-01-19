@@ -1,9 +1,9 @@
 ---
-title: Dr.Steven Wilson Wins the Fields Medal
+title: Dr.Steven Wilson Wins the Turing Award
 date: 2020-12-01
 ---
 
-Congratulations to Steven Wilson for winning first place in the...
+Congratulations to Steven Wilson for winning the Turing Award for his immense contributions to the field of computer science.
 
 <!--more-->
 
