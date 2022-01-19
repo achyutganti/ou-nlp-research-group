@@ -3,7 +3,7 @@ widget: hero
 widget_id: OU NLP Research Group
 headless: true
 weight: 10
-title: OU NLP Research
+title: Lab Introduction
 active: true
 design:
   columns: "1"
