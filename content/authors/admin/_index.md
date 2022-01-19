@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
+- Researchers
 ---
 
  I study online communication using Natural Language Processing methods with a focus on understanding and incorporating the social context of text data and the people that create it.
