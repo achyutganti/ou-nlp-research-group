@@ -4,7 +4,7 @@ widget_id: OU NLP Research Group
 headless: true
 weight: 10
 title: OU NLP Research
-active: false
+active: true
 design:
   columns: "1"
   css_style: null
