@@ -1,6 +1,6 @@
 ---
 # Display name
-title: [Steven Wilson](https://steverw.com/)
+title: Steven Wilson
 
 # Is this the primary user of the site?
 superuser: true
