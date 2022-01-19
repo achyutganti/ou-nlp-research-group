@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Dr.Steven Wilson Wins the Fields Medal
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to Steven Wilson for winning first place in the...
 
 <!--more-->
 
