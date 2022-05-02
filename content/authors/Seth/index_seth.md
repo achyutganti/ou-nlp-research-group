@@ -1,0 +1,74 @@
+---
+# Display name
+title: Seth Jones
+
+# Username (this should match the folder name)
+authors:
+- Seth Jones
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: PhD/Computer Science
+
+# Organizations/Affiliations
+organizations:
+- name: Oakland University
+  url: ""
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include Natural Language Processing, Machine Learning, Data Science.
+
+interests:
+- Natural Language Processing
+- Computational Linguistics
+- Machine Learning
+
+education:
+  courses:
+  - course: PhD in Computer Science and Engineering
+    institution: Oakland University
+    year: 2021-
+  - course: MS in Computer Information Systems
+    institution: Grand Valley State University
+    year: 2018
+  - course: B.Tech in Electronics and Communication Engineering
+    institution: Jawaharlal Nehru Technological University
+    year: 2016
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:test@example.org'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/achyutganti
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Grad Students
+---
+
+I am a first year Ph.D. student in the Department of Computer Science at Oakland University advised by Dr. Steven Wilson. Prior to joining OU, I graduated with a masters degree in Computer Science from Grand Valley State University.
+
+My research intersts broadly includes natural language processing, machine learning, computational social sciences and I’m also interested in studying human behavior and how it affects natural language in everyday life.
